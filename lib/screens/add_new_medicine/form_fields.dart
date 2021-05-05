@@ -2,7 +2,7 @@ import 'package:autocomplete_textfield/autocomplete_textfield.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:medicine/screens/add_new_medicine/slider.dart';
-//guit
+
 class FormFields extends StatelessWidget {
   final List<String> weightValues = ["pills", "ml", "mg"];
   final int howManyWeeks;
